@@ -1,0 +1,9 @@
+
+{
+  "name": "JanSeva - Smart Emergency Response",
+  "description": "A comprehensive real-time emergency reporting and coordination platform for citizens, hospitals, police, and ambulance services.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
